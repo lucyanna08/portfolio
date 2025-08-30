@@ -22,7 +22,10 @@ Durante o desenvolvimento, aprendi a:
 - Versionar projetos com Git;
 - Publicar sites no GitHub Pages.
 
-**Como ficou:**
+**Feito por:**
+Lucyanna Moura Coelho
+
+**E esse foi o resultado:**
 
 ![Visual da Página](https://github.com/lucyanna08/portfolio/blob/main/assets/pagina_Home.png?raw=true)
 
